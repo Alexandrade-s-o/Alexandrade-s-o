@@ -20,7 +20,7 @@ Actualmente me desempeño como **Productor Multimedia en [Socya](https://socya.o
 Mi trabajo se define por la precisión técnica y la estética cinematográfica. Me especializo en:
 - 🖋️ **Diseño UI/UX**: Interfaces limpias, intuitivas y con una navegación fluida.
 - 🎬 **Producción Multimedia**: Creación de lenguajes visuales coherentes y dinámicos.
-- 🌌 **CROMIA Studio**: Mi laboratorio de experimentación personal para el diseño interactivo.
+
 
 ---
 
