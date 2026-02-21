@@ -1,70 +1,88 @@
-# <div align="center">✨ Alex Andrade | Creative Director & Frontend Developer</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CROMIA%20Studio&fontSize=70" width="100%" />
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Alex%20Andrade&fontSize=80&subText=Multimedia%20Producer%20|%20UI/UX%20Specialist&subFontSize=25" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>Building digital experiences at the intersection of Art and Technology. 🎨 💻</h3>
+  <h3>✨ Transformando conceptos en experiencias visuales de alto impacto.</h3>
+  <p>Productor Multimedia enfocado en el diseño de interfaces gráficas sofisticadas y experiencias de usuario (UI/UX) premium.</p>
 </div>
 
+---
+
+### 🏛️ Trayectoria Profesional
+Actualmente me desempeño como **Productor Multimedia en [Socya](https://socya.org.co/)**, donde lidero la creación de contenido visual y el desarrollo de interfaces que conectan la tecnología con las necesidades humanas, manteniendo siempre un estándar de diseño de vanguardia.
+
+---
+
+### 🎨 Especialidades & Enfoque Creativo
+Mi trabajo se define por la precisión técnica y la estética cinematográfica. Me especializo en:
+- 🖋️ **Diseño UI/UX**: Interfaces limpias, intuitivas y con una navegación fluida.
+- 🎬 **Producción Multimedia**: Creación de lenguajes visuales coherentes y dinámicos.
+- 🌌 **CROMIA Studio**: Mi laboratorio de experimentación personal para el diseño interactivo.
+
+---
+
+### 🚀 Stack Tecnológico
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Interfaces & Web</strong><br />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Creative Suite</strong><br />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+      <img src="https://img.shields.io/badge/Premiere-PR?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Interacción</strong><br />
+      <img src="https://img.shields.io/badge/Framer_Motion-white?style=flat-square&logo=framer&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Perfil de Ingeniería
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandrade-s-o&show_icons=true&theme=transparent&title_color=000&text_color=333&icon_color=000&border_color=eee" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrade-s-o&theme=transparent&hide_border=true&stroke=000&ring=000&fire=000" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandrade-s-o&show_icons=true&theme=nord&title_color=007ACC&text_color=333&icon_color=007ACC&border_color=eee" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrade-s-o&layout=compact&theme=nord&title_color=007ACC&text_color=333&border_color=eee" height="170" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
-Soy un **Director Creativo** y **Desarrollador Frontend** apasionado por la estética minimalista y la fotografía. A través de **CROMIA Studio**, exploro nuevas formas de exhibición digital premium, fusionando interfaces fluidas con un diseño visual cinematográfico.
-
-- 🔭 Actualmente trabajando en: **CROMIA Studio** (Portafolio interactivo).
-- 🌱 Aprendiendo: Animaciones avanzadas con **Framer Motion** y **Three.js**.
-- 🎨 Enfoque: Diseño **Minimalista**, **UX/UI Premium** y **Dirección de Arte**.
+### 🌟 Proyectos en Desarrollo
+*   **[CROMIA-](https://github.com/Alexandrade-s-o/CROMIA-)**: Un santuario digital que explora el diseño de interfaces con estética premium.
+*   **[Maleza Tour](https://github.com/Alexandrade-s-o/maleza)**: Fusión de música y diseño interactivo.
+*   **[ConstructPrice](https://github.com/Alexandrade-s-o/constructprice)**: Ingeniería aplicada al análisis de datos y costos.
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
-
-<div align="left">
-  
-**Frontend & Web**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Creatividad & Diseño**  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Creative Direction](https://img.shields.io/badge/Creative%20Direction-FFD700?style=for-the-badge&logo=indesign&logoColor=black)
-
-</div>
-
----
-
-### 🌟 Proyectos Destacados
-
-- **[CROMIA Studio](https://github.com/Alexandrade-s-o/CROMIA-)** - Mi proyecto insignia. Un portafolio digital diseñado para cautivar, con interacciones fluidas y estética minimalista.
-- **[ConstructPrice](https://github.com/Alexandrade-s-o/constructprice)** - Gestor de precios inteligente desarrollado con TypeScript.
-- **[Maleza Tour](https://github.com/Alexandrade-s-o/maleza)** - Diseño de portafolio musical con efectos de scroll dinámicos.
-
----
-
-### 📫 Conectemos
-
+### 📫 Hablemos de diseño
 <div align="center">
   <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+</p>
